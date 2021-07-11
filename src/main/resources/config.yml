@@ -1,0 +1,6 @@
+MySQL:
+  Host: 'Host'
+  Port: 3306
+  Database: 'Database'
+  Username: 'Username'
+  Password: 'Password'

@@ -1,0 +1,14 @@
+name: MoneySystem
+main: de.yussef.money.Money
+author: Yussef Chahrour
+version: 1.0
+description: Simple Money System
+website: https://github.com/Yussef1/
+
+commands:
+  Money:
+    aliases:
+      - geld
+      - euro
+      - dollar
+    description: Zeige dir an wie viel Geld du besitzt.
